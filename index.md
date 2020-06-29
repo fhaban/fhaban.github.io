@@ -10,3 +10,5 @@ Iron Man ist ein Superheld ohne eigentliche Superkraft. Seine Kraft besteht dara
 
 Zitat von Iron Man
 > Ich bin Iron Man
+
+<img src="http://de.web.img2.acsta.net/r_640_360/newsv7/19/04/18/12/56/4254644.jpg"/>
