@@ -7,3 +7,6 @@ Iron Man ist ein Superheld ohne eigentliche Superkraft. Seine Kraft besteht dara
 * hat Waffen
 * macht coole Sprüche
 * hat viel Geld
+
+Zitat von Iron Man
+> Ich bin Iron Man
